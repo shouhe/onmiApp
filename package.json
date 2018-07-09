@@ -1,0 +1,22 @@
+{
+  "name": "onmiapp",
+  "version": "1.0.0",
+  "description": "koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouhe/onmiApp.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "zoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shouhe/onmiApp/issues"
+  },
+  "homepage": "https://github.com/shouhe/onmiApp#readme"
+}
